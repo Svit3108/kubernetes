@@ -1,3 +1,0 @@
-[submodule "k8s-app"]
-    path = k8s-app
-    url = <submodule_repository_url>
